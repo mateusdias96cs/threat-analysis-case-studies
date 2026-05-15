@@ -1,4 +1,4 @@
-# Threat Analysis Case Studies 
+# Threat Analysis Case Studies 🇺🇸
 
 Real-world cybersecurity incident analysis from the SOC analyst perspective.
 
@@ -6,7 +6,7 @@ Each case study reconstructs the alerts as they appeared to the analyst in real 
 
 This is not hindsight analysis. It is an exercise in thinking like an analyst under pressure, with incomplete information, before knowing the outcome.
 
-## Case Studies 🇺🇸
+## Case Studies 
 
 | Incident | Year | Threat Actor | Key Techniques |
 |----------|------|-------------|----------------|
@@ -24,7 +24,7 @@ Each case study follows this structure:
 
 ---
 
-# Estudos de Caso — Análise de Ameaças
+# Estudos de Caso — Análise de Ameaças 🇧🇷
 
 Análise de incidentes reais de cibersegurança sob a perspectiva do analista SOC.
 
@@ -32,7 +32,7 @@ Cada estudo reconstrói os alertas exatamente como apareceram para o analista no
 
 Não é análise retrospectiva com o gabarito em mãos. É um exercício de pensar como analista sob pressão, com informação incompleta, sem saber o desfecho.
 
-## Estudos de Caso 🇧🇷
+## Estudos de Caso 
 
 | Incidente | Ano | Agente | Técnicas Principais |
 |-----------|-----|--------|-------------------|

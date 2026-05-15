@@ -1,4 +1,4 @@
-# Threat Analysis Case Studies
+# Threat Analysis Case Studies 🇺🇸
 
 Real-world cybersecurity incident analysis from the SOC analyst perspective.
 
@@ -12,6 +12,7 @@ This is not hindsight analysis. It is an exercise in thinking like an analyst un
 |----------|------|-------------|----------------|
 | [SolarWinds Sunburst](./threat-analysis-solarwinds-sunburst-2020.md) | 2020 | APT29 | Supply Chain, DGA, LotL, Low and Slow Exfiltration |
 | [Uber Security Breach](./threat-analysis-uber-breach-2022.md) | 2022 | Lapsus$ | MFA Fatigue, Social Engineering, Internal Spearphishing |
+| [Colonial Pipeline Ransomware](./threat-analysis-colonial-pipeline-2021.md) | 2021 | DarkSide | Dormant Credentials, No MFA, Double Extortion, IT/OT Segmentation |
 ## Methodology
 
 Each case study follows this structure:
@@ -31,12 +32,13 @@ Cada estudo reconstrói os alertas exatamente como apareceram para o analista no
 
 Não é análise retrospectiva com o gabarito em mãos. É um exercício de pensar como analista sob pressão, com informação incompleta, sem saber o desfecho.
 
-## Estudos de Caso
+## Estudos de Caso 🇧🇷
 
 | Incidente | Ano | Agente | Técnicas Principais |
 |-----------|-----|--------|-------------------|
 | [SolarWinds Sunburst](./threat-analysis-solarwinds-sunburst-2020.md) | 2020 | APT29 | Supply Chain, DGA, LotL, Exfiltração Low and Slow |
 | [Uber Security Breach](./threat-analysis-uber-breach-2022.md) | 2022 | Lapsus$ | MFA Fatigue, Engenharia Social, Internal Spearphishing |
+| [Colonial Pipeline Ransomware](./threat-anaalysis-colonial-pipeline-2021.md) | 2021 | DarkSide | Credencial Inativa, Sem MFA, Double Extortion, Segmentação IT/OT |
 ## Metodologia
 
 Cada estudo segue esta estrutura:

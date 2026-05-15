@@ -1,4 +1,4 @@
-# Threat Analysis Case Studies 🇺🇸
+# Threat Analysis Case Studies 
 
 Real-world cybersecurity incident analysis from the SOC analyst perspective.
 
@@ -6,7 +6,7 @@ Each case study reconstructs the alerts as they appeared to the analyst in real 
 
 This is not hindsight analysis. It is an exercise in thinking like an analyst under pressure, with incomplete information, before knowing the outcome.
 
-## Case Studies
+## Case Studies 🇺🇸
 
 | Incident | Year | Threat Actor | Key Techniques |
 |----------|------|-------------|----------------|
@@ -15,7 +15,7 @@ This is not hindsight analysis. It is an exercise in thinking like an analyst un
 | [Colonial Pipeline Ransomware](./threat-analysis-colonial-pipeline-2021.md) | 2021 | DarkSide | Dormant Credentials, No MFA, Double Extortion, IT/OT Segmentation |
 ## Methodology
 
-Each case study follows this structure:
+Each case study follows this structure: 
 1. Incident background
 2. Real alerts as they appeared to the SOC
 3. My triage reasoning for each alert

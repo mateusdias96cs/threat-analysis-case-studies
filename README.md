@@ -11,7 +11,7 @@ This is not hindsight analysis. It is an exercise in thinking like an analyst un
 | Incident | Year | Threat Actor | Key Techniques |
 |----------|------|-------------|----------------|
 | [SolarWinds Sunburst](./threat-analysis-solarwinds-sunburst-2020.md) | 2020 | APT29 | Supply Chain, DGA, LotL, Low and Slow Exfiltration |
-
+| [Uber Security Breach](./threat-analysis-uber-breach-2022.md) | 2022 | Lapsus$ | MFA Fatigue, Social Engineering, Internal Spearphishing |
 ## Methodology
 
 Each case study follows this structure:
@@ -36,7 +36,7 @@ Não é análise retrospectiva com o gabarito em mãos. É um exercício de pens
 | Incidente | Ano | Agente | Técnicas Principais |
 |-----------|-----|--------|-------------------|
 | [SolarWinds Sunburst](./threat-analysis-solarwinds-sunburst-2020.md) | 2020 | APT29 | Supply Chain, DGA, LotL, Exfiltração Low and Slow |
-
+| [Uber Security Breach](./threat-analysis-uber-breach-2022.md) | 2022 | Lapsus$ | MFA Fatigue, Engenharia Social, Internal Spearphishing |
 ## Metodologia
 
 Cada estudo segue esta estrutura:

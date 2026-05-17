@@ -13,6 +13,7 @@ This is not hindsight analysis. It is an exercise in thinking like an analyst un
 | [SolarWinds Sunburst](./threat-analysis-solarwinds-sunburst-2020.md) | 2020 | APT29 | Supply Chain, DGA, LotL, Low and Slow Exfiltration |
 | [Uber Security Breach](./threat-analysis-uber-breach-2022.md) | 2022 | Lapsus$ | MFA Fatigue, Social Engineering, Internal Spearphishing |
 | [Colonial Pipeline Ransomware](./threat-analysis-colonial-pipeline-2021.md) | 2021 | DarkSide | Dormant Credentials, No MFA, Double Extortion, IT/OT Segmentation |
+| [Change Healthcare Ransomware](https://github.com/mateusdias96cs/threat-analysis-case-studies/blob/main/threat-analysis-change-healthcare-2024.md) | 2024 | BlackCat/ALPHV | Compromised Credentials, No MFA, LSASS Dump, Double Extortion, Ransomware-as-a-Service |
 ## Methodology
 
 Each case study follows this structure: 
@@ -39,6 +40,7 @@ Não é análise retrospectiva com o gabarito em mãos. É um exercício de pens
 | [SolarWinds Sunburst](./threat-analysis-solarwinds-sunburst-2020.md) | 2020 | APT29 | Supply Chain, DGA, LotL, Exfiltração Low and Slow |
 | [Uber Security Breach](./threat-analysis-uber-breach-2022.md) | 2022 | Lapsus$ | MFA Fatigue, Engenharia Social, Internal Spearphishing |
 | [Colonial Pipeline Ransomware](./threat-anaalysis-colonial-pipeline-2021.md) | 2021 | DarkSide | Credencial Inativa, Sem MFA, Double Extortion, Segmentação IT/OT |
+| [Change Healthcare Ransomware](https://github.com/mateusdias96cs/threat-analysis-case-studies/blob/main/threat-analysis-change-healthcare-2024.md) | 2024 | BlackCat/ALPHV | Credencial Comprometida, Sem MFA, LSASS Dump, Double Extortion, Ransomware-as-a-Service |
 ## Metodologia
 
 Cada estudo segue esta estrutura:
